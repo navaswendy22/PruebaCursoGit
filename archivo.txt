@@ -1,1 +1,3 @@
 Hola archivo prueba de curso git
+
+Una nueva prueba, arreglando texto.
